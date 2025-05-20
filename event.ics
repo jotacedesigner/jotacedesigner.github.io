@@ -4,9 +4,9 @@ PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:Boda de Enrique & Estefany
-DTSTART:20231231T190000Z
-DTEND:20231231T220000Z
-LOCATION:Terraza de montaña en Woodside, N CA
-DESCRIPTION:Te esperamos para celebrar nuestra boda.
+DTSTART:20250719T150000Z
+DTEND:20250719T180000Z
+LOCATION:Sapphire Banquet Halls
+DESCRIPTION:Te esperamos para celebrar nuestra boda el sábado 19 de julio de 2025 a las 15:00 horas en Sapphire Banquet Halls.
 END:VEVENT
 END:VCALENDAR
